@@ -23,7 +23,7 @@ Your users should be able to:
 - [How to use Mapbox securely](https://docs.mapbox.com/help/troubleshooting/how-to-use-mapbox-securely/)
 - [How to Hide Your API Keys](https://youtu.be/NpWWOS-tC5s)
 
-## Acknowledgments
+### Acknowledgments
 
 ### Live Site
 
