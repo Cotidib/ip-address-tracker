@@ -15,7 +15,7 @@ Your users should be able to:
 - HTML5, CSS3
 - Mobile-first workflow
 - React JS and React Hooks
-- [LeafletJS](https://leafletjs.com/)
+- [React Leaflet](https://react-leaflet.js.org/)
 - [IP Geolocation API by IPify](https://geo.ipify.org/)
 
 ### Useful resources
