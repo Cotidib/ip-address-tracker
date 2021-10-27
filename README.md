@@ -26,11 +26,11 @@ Your users should be able to:
 - [Running React and Node.js in one shot with concurrently](https://dev.to/numtostr/running-react-and-node-js-in-one-shot-with-concurrently-2oac)
 
 ### Dependencies
-concurrently 6.3.0,
-dotenv 10.0.0,
-express 4.17.1,
-node-fetch 2.6.5,
-nodemon 2.0.14
+- concurrently 6.3.0
+- dotenv 10.0.0
+- express 4.17.1
+- node-fetch 2.6.5
+- nodemon 2.0.14
 
 ### Run with
 ```npm run dev```
