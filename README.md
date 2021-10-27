@@ -15,6 +15,7 @@ Your users should be able to:
 - HTML5, CSS3
 - Mobile-first workflow
 - React JS and React Hooks
+- Node Js and Express
 - [React Leaflet](https://react-leaflet.js.org/)
 - [IP Geolocation API by IPify](https://geo.ipify.org/)
 
@@ -22,6 +23,17 @@ Your users should be able to:
 - [API Key best practices from Google Developers](https://developers.google.com/maps/api-key-best-practices)
 - [How to use Mapbox securely](https://docs.mapbox.com/help/troubleshooting/how-to-use-mapbox-securely/)
 - [How to Hide Your API Keys](https://youtu.be/NpWWOS-tC5s)
+- [Running React and Node.js in one shot with concurrently](https://dev.to/numtostr/running-react-and-node-js-in-one-shot-with-concurrently-2oac)
+
+### Dependencies
+concurrently 6.3.0,
+dotenv 10.0.0,
+express 4.17.1,
+node-fetch 2.6.5,
+nodemon 2.0.14
+
+### Run with
+```npm run dev```
 
 ### Acknowledgments
 
