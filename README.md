@@ -38,8 +38,6 @@ Your users should be able to:
 ### Run with
 ```npm run dev```
 
-### Acknowledgments
-
 ### Live Site
 
 
