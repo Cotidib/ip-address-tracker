@@ -27,6 +27,8 @@ Your users should be able to:
 - [API calls from Node.js](https://youtu.be/ZtLVbJk7KcM)
 
 ### Dependencies
+- react-leaflet 3.2.2
+
 - concurrently 6.3.0
 - dotenv 10.0.0
 - express 4.17.1
