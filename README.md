@@ -1,4 +1,4 @@
-# ip-adress-tracker
+# ip-address-tracker
 This is a solution to the [IP Address Tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0).  
 
 ### The challenge
